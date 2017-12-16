@@ -357,11 +357,11 @@ body,
 
 /* grey */
 .bkg-grey{
-	background-color: #4e4e4d;
+	background-color: #227fbb;
 	border-color: #4e4e4d;
 }
 .bkg-hover-grey:hover{
-	background-color: #4e4e4d;
+	background-color: #227fbb;
 	border-color: #4e4e4d;
 }
 .border-hover-grey:hover{
@@ -374,11 +374,11 @@ body,
 
 /* charcoal */
 .bkg-charcoal-light{
-	background-color: #333; 
+	background-color: #e23b96; 
 	border-color: #333;
 }
 .bkg-hover-charcoal-light:hover{
-	background-color: #333; 
+	background-color: #e23b96; 
 	border-color: #333;
 }
 .border-hover-charcoal-light:hover{
@@ -389,11 +389,11 @@ body,
 	color: #333;
 }
 .bkg-charcoal{
-	background-color: #1e1e1e; 
+	background-color: #92bb34; 
 	border-color: #1e1e1e;
 }
 .bkg-hover-charcoal:hover{
-	background-color: #1e1e1e; 
+	background-color: #92bb34; 
 	border-color: #1e1e1e;
 }
 .border-charcoal,
@@ -407,11 +407,11 @@ body,
 
 /* theme */
 .bkg-theme{
-	background-color: #304cd1;
+	background-color: #227fbb;
 	border-color: #304cd1;
 }
 .bkg-hover-theme:hover{
-	background-color: #304cd1;
+	background-color: #227fbb;
 	border-color: #304cd1;
 }
 .border-theme{
